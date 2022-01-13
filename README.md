@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ethan-cope! An electrical engineer, multi-instrumentalist, and internet native.
+- 👋 Hi, I’m @ethan-cope! An electrical engineer and multi-instrumentalist.
 - 👀 I’m interested in a ton of totally unrelated topics, like open-source software, audio electronics, physical entertainment media, and more!
 - 🌱 I’m currently learning the ins and outs of Linux and analog signal processing.
 - 💞️ I’m looking to collaborate on any songs that need some harmonica!
